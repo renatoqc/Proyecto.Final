@@ -21,5 +21,16 @@ que ingresemos la cantidad de elemntos que queremos comprar:
 Como podemos observar una vez que ingresemos dichos datos pedidos, nos dira que elemento hemos seleccionado con su precio y cuantas hay.
 
 
+Continuando, el programa nos volvera a pedir que ingresemos el numero del elemento que queremos comprar, y  si nosotros seleccionamos el mismo tipo la cantidad se restara y el precio de nuestra compra
+aumentara:
+
+![image](https://github.com/renatoqc/Proyecto.Final/assets/101827901/005532b8-588a-4b8b-b1a9-49f17730deaa)
+
+
+Y ya para poder finalizar y si queremos salir del programa tendremos que presionar o insertar el numero cero el cual hara que nos salga el costo total de la compra y se termine el programa:
+
+![image](https://github.com/renatoqc/Proyecto.Final/assets/101827901/dd6a05b6-1fd1-4716-b621-6cb8ea44f2f9)
+Como se puede ver al final nos sale el costo y la hora de salida que seria por parte del vendedor.
+
 
 
