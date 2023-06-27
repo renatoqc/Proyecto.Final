@@ -30,6 +30,7 @@ aumentara:
 Y ya para poder finalizar y si queremos salir del programa tendremos que presionar o insertar el numero cero el cual hara que nos salga el costo total de la compra y se termine el programa:
 
 ![image](https://github.com/renatoqc/Proyecto.Final/assets/101827901/dd6a05b6-1fd1-4716-b621-6cb8ea44f2f9)
+
 Como se puede ver al final nos sale el costo y la hora de salida que seria por parte del vendedor.
 
 
